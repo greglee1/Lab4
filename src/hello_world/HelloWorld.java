@@ -5,7 +5,7 @@ package hello_world;
  * added goodbye world to program
  */
 public class HelloWorld {
-    public static void main(String[] args) {
+    public void main() {
         // Prints "Hello, World" in the terminal window.
         System.out.println("Hello, World");
         System.out.println("Goodbye World");
